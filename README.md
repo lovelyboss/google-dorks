@@ -12,7 +12,7 @@ Read this, my Medium Blog Space:👩‍💻<a href="https://proviesec.medium.com
 
 <a href="https://medium.com/@proviesec/membership"><b>Become a Proviesec Medium Member</b></a> 🥇
 
-Table of Contents
+Table of Contents:
 ------------
 * [Introduction](#introduction)
 * [My love google dork](#my-love-google-dork)
